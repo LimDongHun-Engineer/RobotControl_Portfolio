@@ -15,7 +15,10 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="week1_memory_pointer.cpp">
+    <ClCompile Include="foundation1_memory_pointer.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="foundation2_bitwise_status.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
