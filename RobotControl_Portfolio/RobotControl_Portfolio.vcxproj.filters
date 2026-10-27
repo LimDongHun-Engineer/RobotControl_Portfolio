@@ -30,5 +30,8 @@
     <ClCompile Include="portfolio2_traajectory_generator.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio3_forward_kinematics.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
