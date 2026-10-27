@@ -27,5 +27,8 @@
     <ClCompile Include="portfolio1_pid_controller.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio2_traajectory_generator.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
