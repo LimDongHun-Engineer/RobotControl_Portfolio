@@ -36,5 +36,8 @@
     <ClCompile Include="portfolio4_inverse_kinematics.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="portfolio5_integrated_system.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
