@@ -18,5 +18,8 @@
     <ClCompile Include="fk_solver.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="fk_solver_eigen.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
